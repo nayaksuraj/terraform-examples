@@ -1,5 +1,4 @@
 # run "terraform init" after clone to get all required modules
---
 -- This terraform code does following things
 - creates vpc in aws virginia region
   - 2 subnets : Private and Public
