@@ -1,6 +1,6 @@
 # run "terraform init" after clone to get all required modules
--- This terraform code does following things
-- creates vpc in aws virginia region
+- This terraform code does following things
+  - creates vpc in aws virginia region
   - 2 subnets : Private and Public
   - 2 Route Tables
   - Nat gatway attached to Private Subnet and IGW to Public Gatway
