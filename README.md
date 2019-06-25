@@ -6,4 +6,4 @@
   - Nat gatway attached to Private Subnet and IGW to Public Gatway
   - Launch first machine into Public Subnet and install ansible, java and jenkins
   - Attach public ip to first machine
-  - Launch second machine into private machine
+  - Launch second machine into private subnet
